@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env
+.env.local
+*.log
+data/
+public/videos/*.mp4
+public/videos/*.webm
+public/videos/*.mov
+public/videos/*.avi
+public/videos/*.wmv
