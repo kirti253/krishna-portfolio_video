@@ -12,6 +12,6 @@ export const config = {
     "video/webm",
     "video/quicktime",
     "video/x-msvideo",
-    "video/x-ms-wmv",
+    // "video/x-ms-wmv",
   ],
 };
